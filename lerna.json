@@ -8,7 +8,7 @@
     },
     "publish": {
       "ignoreChanges": ["*.md"],
-      "message": "chore(release): publish %s"
+      "message": "chore(release): publish %v"
     },
     "command": {
       "version": {
