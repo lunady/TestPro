@@ -1,0 +1,33 @@
+{
+  "name": "@asukatestpro/pkg3",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "dengyuqing <dengyuqing@huobi.com>",
+  "homepage": "https://github.com/lunady/TestPro/tree/master/packages/pkg3#readme",
+  "license": "ISC",
+  "main": "lib/pkg3.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunady/TestPro.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/lunady/TestPro/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "@asukatestpro/pkg2": "^1.0.0"
+  }
+}
