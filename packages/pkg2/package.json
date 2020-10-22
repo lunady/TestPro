@@ -1,6 +1,6 @@
 {
   "name": "@asukatestpro/pkg2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "dengyuqing <dengyuqing@huobi.com>",
   "homepage": "https://github.com/lunady/TestPro/tree/master/packages/pkg2#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/lunady/TestPro/issues"
   },
   "dependencies": {
-    "@asukatestpro/pkg1": "^1.0.1",
+    "@asukatestpro/pkg1": "^1.0.2",
     "lodash": "^4.17.20"
   },
   "gitHead": "799b36aa06ab9eab329cc073130ba53e6545e6d1"
