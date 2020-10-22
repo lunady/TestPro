@@ -1,6 +1,6 @@
 {
   "name": "asukatestpropkg3",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "> TODO: description",
   "author": "asuka2020",
   "homepage": "https://github.com/lunady/TestPro/tree/master/packages/pkg3#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/lunady/TestPro/issues"
   },
   "dependencies": {
-    "asukatestpropkg2": "^1.0.6",
+    "asukatestpropkg2": "^1.0.7",
     "lodash": "^4.17.20"
   },
   "gitHead": "f9092959c5c02f1b023aee1ec8f9d97755781348"
