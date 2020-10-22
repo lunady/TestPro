@@ -4,5 +4,5 @@ module.exports = pkg1;
 
 function pkg1() {
     console.log("package 1")
-    console.log("change !!! 2")
+    console.log("I change pkg 1 now!")
 }
