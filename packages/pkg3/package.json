@@ -27,7 +27,7 @@
     "url": "https://github.com/lunady/TestPro/issues"
   },
   "dependencies": {
-    "@asukatestpro/pkg2": "^1.0.4",
+    "asukatestpropkg2": "^1.0.5",
     "lodash": "^4.17.20"
   },
   "gitHead": "f9092959c5c02f1b023aee1ec8f9d97755781348"
