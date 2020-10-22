@@ -17,10 +17,10 @@
     }
   },
   "changelog": {
-    "repo": "asukatestpro",
+    "repo": "lunady/TestPro",
     "labels": {
       "feat": ":rocket: New Feature",
-      "bug": ":bug: Bug Fix",
+      "fix": ":bug: Bug Fix",
       "doc": ":memo: Documentation",
       "internal": ":house: Internal",
       "breaking": ":boom: Breaking Change"
