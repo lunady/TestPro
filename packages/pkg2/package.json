@@ -1,6 +1,6 @@
 {
   "name": "@asukatestpro/pkg2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "> TODO: description",
   "author": "asuka2020",
   "homepage": "https://github.com/lunady/TestPro/tree/master/packages/pkg2#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/lunady/TestPro/issues"
   },
   "dependencies": {
-    "@asukatestpro/pkg1": "^1.0.3",
+    "@asukatestpro/pkg1": "^1.0.4",
     "lodash": "^4.17.20"
   }
 }
