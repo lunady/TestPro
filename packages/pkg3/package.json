@@ -2,7 +2,7 @@
   "name": "@asukatestpro/pkg3",
   "version": "1.0.2",
   "description": "> TODO: description",
-  "author": "dengyuqing <dengyuqing@huobi.com>",
+  "author": "asuka2020",
   "homepage": "https://github.com/lunady/TestPro/tree/master/packages/pkg3#readme",
   "license": "ISC",
   "main": "lib/pkg3.js",
@@ -30,5 +30,5 @@
     "@asukatestpro/pkg2": "^1.0.2",
     "lodash": "^4.17.20"
   },
-  "gitHead": "799b36aa06ab9eab329cc073130ba53e6545e6d1"
+  "gitHead": "a85595050eb2bbf73e7a67abe70c01c0d6649e23"
 }
